@@ -1,7 +1,7 @@
 <p align="center" ><img alt="banner" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/> </p>
 
 <h1 align="center">Hi 👋, I'm Harshil</h1>
-<h3 align="center">PROGRAMMING FEELS NICE I GUESS</h3>
+<h3 align="center">ALWAYS LEARNING 📚</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning AI/ML<br>📫 How to reach me harshilbhatnagar97@gmail.com

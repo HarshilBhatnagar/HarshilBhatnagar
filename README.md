@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI|ML Aficionado
 ----------------
 
-AREA OF INTEREST: AI/ML | WEB DESIGN | APP DEV |
+AREA OF INTEREST: AI/ML | WEB DESIGN | APP DEV 
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [harshilbhatnagar97@gmail.com](mailto:harshilbhatnagar97@gmail.com)

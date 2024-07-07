@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🤖 I am currently learning AI/ML<br>🌍  I'm based in INDIA<br>✉️  You can contact me at harshilbhatnagar97@gmail.com<br><br>OTHER AREAS OF INTEREST: WEB DESIGN | APP DEV | DATA SCIENCE
+🤖 I am currently learning AI/ML<br>🌍  I'm based in INDIA<br>✉️  You can contact me at harshilbhatnagar.work@gmail.com<br><br>OTHER AREAS OF INTEREST: WEB DESIGN | APP DEV | DATA SCIENCE
 
 
 ## 🌐 Socials:

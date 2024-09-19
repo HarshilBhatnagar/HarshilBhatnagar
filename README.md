@@ -1,4 +1,4 @@
-<p align="center" ><img alt="banner" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/> </p>
+<p align="center" ><<img alt=banner src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500"/> </p>
 
 
 # 💫 About Me:

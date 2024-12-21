@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Artificial Intelligence<br>📫 How to reach me : harshilbhatnagar97@gmail.com
+🌱 I’m currently learning Generative AI & LLM<br>📫 How to reach me : harshilbhatnagar97@gmail.com
 
 
 ## 🌐 Socials:
